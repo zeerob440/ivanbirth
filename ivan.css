@@ -3,3 +3,6 @@
     color:red;
     font-weight: bold;
 }
+nav a:hover {
+    color: #C0C0C0;
+}
